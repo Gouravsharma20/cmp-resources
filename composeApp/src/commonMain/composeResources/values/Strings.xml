@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <String name = "Hello_World"> Hello World </String>
+</resources>
